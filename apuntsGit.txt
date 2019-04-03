@@ -1,0 +1,8 @@
+﻿git init
+inicialitza el control de la carpeta triada (en aquest cas appGit boto dret i seleccionem git bash here. 
+git status:
+Guarda a quina versió és.
+-commits- Versió per tornar enrera en el temps
+
+git add . 
+afegeix arxius que vols guarda versió
